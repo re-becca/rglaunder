@@ -1,5 +1,6 @@
 # rglaunder
 R&G Launder Building Contractors
+https://rglaunder.com/
 
 Providing Brisbane and surrounding suburbs with quality, problem-free construction since 1992.
 
@@ -20,7 +21,3 @@ Our team of sub-contractors supply us with quality service indicative of their v
 
 ABOUT - Rick Launder
 Owner and director, Rick is a QBCC Gold Card Licence holder, Master Builders Queensland member and award winner. Prior to R&G Launder Building Contractors, Rick gained 20 years of experience as a foreman, general foreman and site supervisor on commercial and multi-storey building sites and residential projects. Rick is dedicated to assuring quality control, you will find him on site at all times.
-
-© R&G Launder Building Contractors
-rlaunder@bigpond.com
-0419 677 401
